@@ -1,5 +1,5 @@
 # Preside CMS Sublime Text Extensibility
-Repo for developing the following useful extensions to the [Sublime Text IDE](https://www.sublimetext.com/) for working with Preside CMS based projects.
+Repo for developing the following useful extensions to the [Sublime Text IDE](https://www.sublimetext.com/) for working with [Preside CMS](https://www.presidecms.com/) based projects.
 This repo should become the cfBuilder equivalent of a Preside CMS editor!!
 
 * Commands
